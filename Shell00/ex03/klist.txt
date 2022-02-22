@@ -1,0 +1,5 @@
+Credentials cache: API:F3BC7BC6-0563-466F-85F7-C6E8A240B3DB
+        Principal: mojo@42SEOUL.KR
+
+  Issued                Expires               Principal
+Feb  1 09:23:39 2022  Feb  1 19:23:37 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
